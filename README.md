@@ -1,1 +1,1 @@
-# Weather-App
+# Snake game
